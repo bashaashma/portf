@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Mark Arinaitwe",
+    "occupation": "Full Stack Web Developer",
+    "description": "Web Software Developer",
+    "image": "profile.jpg",
+    "bio": "",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "bashaashma@gmail.com",
+    "phone": "(701) 215-4292",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Grand Forks",
+      "state": "CA",
+      "zip": "90035"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/bashaashma",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of North Dakota",
+        "degree": "Masters, Computer Science",
+        "graduated": "2021",
+        "description": "3.71 GPA"
+      },
+      {
+        "school": "Minnesota State University",
+        "degree": "Bachelor's, Computer Science",
+        "graduated": "2018",
+        "description": "3.64 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "University of North Dakota",
+        "title": "Graduate Teaching Assistant",
+        "years": "Jan 2019 - Dec 2020",
+        "description": "Responsible for performing teaching or teaching-related duties to assist faculty members, professors, department heads and other faculty. Proctors exams, grades tests and homework, and records grades in grade book. Assigns material in class as needed."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Estore",
+        "category": "Estore built with React",
+        "image": "./oStore.png",
+        "url": "https://e-storebash.netlify.app"
+      },
+      {
+        "title": "Search Engine",
+        "category": "Built with Java",
+        "image": "./gooloogoo.png",
+        "url": "http://ec2-3-138-61-133.us-east-2.compute.amazonaws.com"
+      },
+      {
+        "title": "Covid Tracker",
+        "category": "Built with React",
+        "image": "./covidT.png",
+        "url": "https://dotify-fe7b1.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
