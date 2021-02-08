@@ -90,6 +90,12 @@
         "category": "Built with React",
         "image": "./covidT.png",
         "url": "https://dotify-fe7b1.web.app"
+      },
+      {
+        "title": "Bookworm",
+        "category": "Built with ASP.NET Core MVC",
+        "image": "./bookworm.png",
+        "url": "http://bookwormwebapp.azurewebsites.net/"
       }
     ]
   },
