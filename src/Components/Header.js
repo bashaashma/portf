@@ -43,16 +43,16 @@ class Header extends Component {
                 Contact Details
               </a>
             </li>
-            <li>
+             <li>
+              <a className="smoothscroll" href="#portfolio">
+                Projects
+              </a>
+            </li><li>
               <a className="smoothscroll" href="#resume">
                 Recent work/education
               </a>
             </li>
-            <li>
-              <a className="smoothscroll" href="#portfolio">
-                Projects
-              </a>
-            </li>
+           
           </ul>
         </nav>
 
