@@ -197,7 +197,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #40f6d1;
 }
 
 /* ------------------------------------------------------------------ */
@@ -222,7 +222,7 @@ ul#nav li.current a {
 
 #about h2 {
   font: 22px/30px "opensans-bold", sans-serif;
-  color: #15243c;
+  color: #000;
   margin-bottom: 12px;
 }
 #about p {
