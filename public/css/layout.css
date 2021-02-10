@@ -263,7 +263,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #000;
+  background: #ebeeee;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -275,7 +275,7 @@ ul#nav li.current a {
 }
 #resume a:hover,
 #resume a:focus {
-  color: #fff;
+  color: #000;
 }
 
 #resume h1 {
@@ -284,13 +284,13 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #resume h1 span {
-  color: #fff;
+  color: #000;
   border-bottom: 3px solid #11abb0;
   padding-bottom: 6px;
 }
 #resume h3 {
   font: 25px/30px "opensans-bold", sans-serif;
-  color: #fff;
+  color: #000;
 }
 
 #resume .header-col {
@@ -457,7 +457,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
+  background: #1d1919;
   padding-top: 90px;
   padding-bottom: 60px;
 }
